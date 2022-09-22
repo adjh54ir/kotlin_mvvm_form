@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_mvvm_form.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_mvvm_form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvvmForm.iml" filepath="$PROJECT_DIR$/.idea/modules/mvvmForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mvvmForm.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mvvmForm.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mvvmForm.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mvvmForm.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mvvmForm.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mvvmForm.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mvvmForm.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mvvmForm.app.unitTest.iml" />
     </modules>
   </component>
 </project>
